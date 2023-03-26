@@ -83,9 +83,7 @@ Extreme Programming involves −
 
 + Keeping the customer involved all the time and obtaining constant feedback.
 
-Iterating facilitates the accommodating changes as the software evolves with the changing requirements.
 
-! [image of extreme programming](https://www.tutorialspoint.com/extreme_programming/images/extreme_programming_in_nutshell.jpg)
 
 ## When should Extreme Programming be Used?
 
