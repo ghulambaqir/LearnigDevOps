@@ -1,6 +1,5 @@
 # Pair Programming
- Pair programming is a development technique in which two programmers work together at single workstation. Person who writes code is called a **driver** and 
- a person who observes and navigates each line of the code is called **navigator**.
+ Pair programming is a development technique in which two programmers work together at single workstation. Person who writes code is called a **driver**   and a person who observes and navigates each line of the code is called **navigator**.
  They may switch their role frequently. 
  Sometimes pair programming is also known as **pairing**.
  
@@ -16,10 +15,13 @@
  Team develops better communication skills – Both of them share knowledge and work together for many hours a day and constantly share information with 
  each other so this can help in developing better communication skills, especially when one of members is a newbie and other is an expert.
 
-## Disadvantages of Pair Programming :
+## Disadvantages of Pair Programming:
 
--Team Fit – High-intensity communication of pair programming is not a good fit for every developer. Sometimes, drivers are supposed to speak loud 
++ Team Fit – High-intensity communication of pair programming is not a good fit for every developer. Sometimes, drivers are supposed to speak loud 
  as they write code. Some people may not agree on idea of sitting, literally shoulder-to-shoulder, with a colleague for eight hours a day. 
  Some experienced developers are more productive in solo rather than in pair programming.
--Newbie-newbie pairing problem – Newbie–newbie pairing can produce results better than two newbie working independently, although this practice
+ 
++ Newbie-newbie pairing problem – Newbie–newbie pairing can produce results better than two newbie working independently, although this practice
  is generally avoided because it is harder for newbie to develop good habits without a proper role model.
+ 
+ 
