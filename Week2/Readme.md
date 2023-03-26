@@ -5,13 +5,13 @@
  
  ## Advantages of Pair Programming :
  
--Two brains are always better than one – If driver encounters a problem with code, there will be two of them who’ll solve problem. 
+- Two brains are always better than one – If driver encounters a problem with code, there will be two of them who’ll solve problem. 
  When driver is writing code, navigator can think about a solution to problem.
  
--Detection of coding mistakes becomes easier – Navigator is observing each and every line of code written by driver, so mistakes or error can be
+- Detection of coding mistakes becomes easier – Navigator is observing each and every line of code written by driver, so mistakes or error can be
  detected easily.
 
--Mutual learning – Both of them can share their knowledge with each other and can learn many new things together.
+- Mutual learning – Both of them can share their knowledge with each other and can learn many new things together.
  Team develops better communication skills – Both of them share knowledge and work together for many hours a day and constantly share information with 
  each other so this can help in developing better communication skills, especially when one of members is a newbie and other is an expert.
 
