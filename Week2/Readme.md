@@ -25,3 +25,56 @@
  is generally avoided because it is harder for newbie to develop good habits without a proper role model.
  
  
+ 
+ 
+ # What is Extreme Programming?
+ eXtreme Programming (XP) was conceived and developed to address the specific needs of software development by small teams in the face of vague and changing requirements.
+
+Extreme Programming is one of the Agile software development methodologies. It provides values and principles to guide the team behavior. The team is expected to self-organize. Extreme Programming provides specific core practices where 
+
++ Each practice is simple and self-complete.
+
++ Combination of practices produces more complex and emergent behavior.
+
+
+## History of Extreme Programming
+Kent Beck, Ward Cunningham and Ron Jeffries formulated extreme Programming in 1999. The other contributors are Robert Martin and Martin Fowler.
+
+In Mid-80s, Kent Beck and Ward Cunningham initiated Pair Programming at Tektronix. In the 80s and 90s, Smalltalk Culture produced Refactoring, Continuous Integration, constant testing, and close customer involvement. This culture was later generalized to the other environments.
+
+In the Early 90s, Core Values were developed within the Patterns Community, Hillside Group. In 1995, Kent summarized these in Smalltalk Best Practices, and in 1996, Ward summarized it in episodes.
+
+In 1996, Kent added unit testing and metaphor at Hewitt. In 1996, Kent had taken the Chrysler C3 project, to which Ron Jeffries was added as a coach. The practices were refined on C3 and published on Wiki.
+
+Scrum practices were incorporated and adapted as the planning game. In 1999, Kent published his book, ‘Extreme Programming Explained’. In the same year, Fowler published his book, Refactoring.
+
+Extreme Programming has been evolving since then, and the evolution continues through today.
+
+Success in Industry
+The success of projects, which follow Extreme Programming practices, is due to −
+
+- Rapid development.
+
+- Immediate responsiveness to the customer’s changing requirements.
+
+- Focus on low defect rates.
+
+- System returning constant and consistent value to the customer.
+
+- High customer satisfaction.
+
+- Reduced costs.
+
+- Team cohesion and employee satisfaction.
+
+
+
+## When should Extreme Programming be Used?
+
++ XP was also set up to address the problems of project risk. If your customers need a new system by a specific date the risk is high. If that system is a new challenge for your software group the risk is even greater. If that system is a new challenge to the entire software industry the risk is greater even still. The XP practices are set up to mitigate the risk and increase the likelihood of success.
++ XP requires an extended development team. The XP team includes not only the developers, but the managers and customers as well, all working together elbow to elbow. Asking questions, negotiating scope and schedules, and creating functional tests require more than just the developers be involved in producing the software.
++ XP is set up for small groups of programmers. Between 2 and 12, though larger projects of 30 have reported success. Your programmers can be ordinary, you don't need programmers with a Ph.D. to use XP. But you can not use XP on a project with a huge staff. We should note that on projects with dynamic requirements or high risk you may find that a small team of XP programmers will be more effective than a large team anyway.
++ Another requirement is testability. You must be able to create automated unit and functional tests. While some domains will be disqualified by this requirement, you may be surprised how many are not. You do need to apply a little testing ingenuity in some domains. You may need to change your system design to be easier to test. Just remember, where there is a will there is a way to test.
++ The last thing on the list is productivity. XP projects unanimously report greater programmer productivity when compared to other projects within the same corporate environment. But this was never a goal of the XP methodology. The real goal has always been to deliver the software that is needed when it is needed.
+ 
+ 
